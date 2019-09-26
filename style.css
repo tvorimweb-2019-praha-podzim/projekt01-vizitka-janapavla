@@ -1,0 +1,41 @@
+body {
+    color:#282425;
+    background-color: #f8b1dd;
+    font-family: 'Rasa', serif;
+    font-size: 25px;
+    line-height: 1.5;
+    margin: 0;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+h2 {
+    font-size: 35px;
+    text-align: center;
+    margin-top: 0;
+}
+a {
+	color:#be3284;
+   }
+.proc,
+.kontakt {
+    background-color: #fa99d2;
+}
+.foto-profilove{
+    width: 220px;
+    border: 2px solid #be3284;
+    border-radius: 10%;
+    float:left;
+    margin: 0px 10px 10px 0px;
+}
+.zaliby img {
+    width: 24%;
+    border: 2px solid #be3284;
+    border-radius: 10px;
+}
+section, header {
+    padding: 50px 15%;
+}
+
+/*jak by se dala zmenšit mezera mezi H1 a H2 prosím? */
